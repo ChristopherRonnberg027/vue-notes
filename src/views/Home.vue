@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Dass is Good(notes)</h1>
+    <h1>Good notes</h1>
     <nav>
       <button class="removeallbtn" @click="destroyAll">x Delete All shit</button>
       <button class="addmore" @click="addNote">+ Add shit</button>
